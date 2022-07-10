@@ -13,6 +13,6 @@
     "ds1621p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb/recipes/universal.json",
     "ds2422p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb/recipes/universal.json",
     "ds920p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb/recipes/universal.json",
-    "dva1622_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb/recipes/universal.json"
+    "dva1622_42661": "https://raw.githubusercontent.com/silens/redpill-load/develop/redpill-qjs-dtb/recipes/universal.json"
   }
 }
