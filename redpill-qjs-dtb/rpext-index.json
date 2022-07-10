@@ -1,6 +1,6 @@
 {
   "id": "jumkey.qjs.dtb",
-  "url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-qjs-dtb/rpext-index.json",
+  "url": "https://github.com/silens/redpill-load/blob/develop/redpill-qjs-dtb/rpext-index.json",
   "info": {
     "name": "Device tree binary",
     "description": "Create your own device tree binary",
